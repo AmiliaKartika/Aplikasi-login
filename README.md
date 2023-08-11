@@ -6,3 +6,4 @@ Alur Fitur Login:
 2. Memvalidasi masukan.
 3. Menampilkan halaman home.
 4. Menampilkan voucher.
+5. Menampilkan fitur-fitur
